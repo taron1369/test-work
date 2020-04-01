@@ -1,1 +1,1 @@
-need php_mb_string
+need mongodb, php + php_mb_string
